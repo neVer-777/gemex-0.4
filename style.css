@@ -1,0 +1,30 @@
+body {
+  background: #111;
+  color: #bfefff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+h1, h2 {
+  color: #6cf;
+}
+input, select {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  padding: 5px;
+  box-sizing: border-box;
+}
+button {
+  background: #6cf;
+  border: none;
+  padding: 10px;
+  font-size: 1.2em;
+  width: 100%;
+  cursor: pointer;
+}
+#result {
+  margin-top: 20px;
+  background: #222;
+  padding: 10px;
+}
